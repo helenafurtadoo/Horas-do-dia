@@ -1,4 +1,4 @@
-# Horas-do-dia
+
 # ⏰ Horas do Dia - JavaScript + DOM
 
 Este é um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript**, baseado em uma atividade do curso de **JavaScript do Gustavo Guanabara (Curso em Vídeo)**.  
